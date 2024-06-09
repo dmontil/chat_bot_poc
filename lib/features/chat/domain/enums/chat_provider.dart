@@ -1,0 +1,4 @@
+enum ChatProvider {
+  openIA,
+  gemini,
+}

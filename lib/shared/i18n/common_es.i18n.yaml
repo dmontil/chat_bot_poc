@@ -1,0 +1,7 @@
+appName: chat_bot_poc
+
+failures:
+  unknown: Se ha producido un error inesperado.
+  loading: No se ha podido cargar el contenido.
+  connection: Se ha producido un error de conexión.
+  request: Error en la solicitud.

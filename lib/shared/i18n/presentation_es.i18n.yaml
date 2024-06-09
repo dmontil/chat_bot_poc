@@ -1,0 +1,14 @@
+onboarding:
+  rankingHelp: Estoy aquí para ayudarte a buscar información
+  assistant: Asistente IA
+  start: Empezar
+
+chat:
+  title: Aquí tienes tu top 5
+  writeRanking: Introduce un tema
+  errorLink: No se ha podido abrir el enlace
+home:
+  title: ¿Qué ranking quieres consultar hoy?
+  talkToOpenIa: Hablar con OpenAI
+  talkToGemini: Hablar con Gemini
+
